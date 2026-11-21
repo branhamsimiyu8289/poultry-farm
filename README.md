@@ -1,2 +1,134 @@
-IyBLaWFtYnUgUG91bHRyeSBGYXJtIC0gRWdnIFByb2R1Y3Rpb24gTWFuYWdl
-ciAmIEFQSQoKKipBdXRob3I:**IEJyYW5oYW0gU2ltaXl1KgoKQSByZWFsLXdvcmxkIHByb2R1Y3Rpb24gbG9nZ2luZyBzeXN0ZW0gYnVpbHQgd2l0aCBGYXN0QVBJIHRvIHNvbHZlIGRhaWx5IGVnZyByZWNvcmQta2VlcGluZyBhbmQgd2Vla2x5IHJlY29uY2lsaWF0aW9uIGZvciBhIHBvdWx0cnkgZmFybWVyIHdpdGggdGhyZWUgc2hlZHMgaW4gS2lhbWJ1LCBLZW55YS4KCi0tLQoKIyMg8J+MviBUaGUgUmVhbCBQcm9ibGVtIEJlaW5nIFNvbHZlZAoKSW4gS2lhbWJ1LCBsYXllciBwb3VsdHJ5IGZhcm1lcnMgcm91dGluZWx5IGNvbGxlY3QgZWdncyBmcm9tIG11bHRpcGxlIHNoZWRzIGV2ZXJ5IGV2ZW5pbmcuIEhpc3RvcmljYWxseSwgdGhlIGZhcm1lciB0eXBlZCByYXcgZGFpbHkgbnVtYmVycyBpbnRvIGEgcGVyc29uYWwgV2hhdHNBcHAgY2hhdDoKCmBgYHRleHQKTW9uZGF5OiBTaGVkIDEgLSA0MTIsIFNoZWQgMiAtIDM4OCwgU2hlZCAzIC0gMjk1ClR1ZXNkYXk6IFNoZWQgMSAtIDQwNSwgU2hlZCAyIC0gMzkxLCBTaGVkIDMgLSAzMDIKLi4uCmBgYAoKT24gU2F0dXJkYXkgYWZ0ZXJub29uLCB0aGUgZmFybWVyIGhhZCB0bzoKMS4gTWFudWFsbHkgc2Nyb2xsIHRocm91Z2ggdGhlIGNoYXQgbWVzc2FnZXMuCjIuIFB1bGwgb3V0IGEgY2FsY3VsYXRvciB0byBzdW0gZWFjaCBzaGVkJ3MgeWllbGRzLgozLiBDb252ZXJ0IGxvb3NlIGVnZyBjb3VudHMgaW50byAqKmNvbW1lcmNpYWwgdHJheXMqKiAoaW4gS2VueWEsIGVnZ3MgYXJlIHBhY2tlZCBhbmQgc29sZCBpbiAzMC1lZ2cgdHJheXM6IGB0cmF5cyA9IGNvdW50IC8vIDMwYCkuCjQuIFNwb3QgZXJyb3JzIG9yIHR5cG9zIHdpdGggbm8gd2F5IHRvIGVkaXQgcGFzdCBsb2dzLgoKVGhpcyBhcHBsaWNhdGlvbiBzb2x2ZXMgdGhhdCBleGFjdCBwcm9ibGVtOgotICoqWmVybyBEYXRhIExvc3MqKjogUGVyc2lzdGVudCBTUUxpdGUgZGF0YWJhc2UgKGBlZ2dzLmRiYCkgZW5zdXJlcyByZWNvcmRzIHN1cnZpdmUgc2VydmVyIHJlc3RhcnRzLgotICoqRmFybWVyIERhc2hib2FyZCAoYC9gKSoqOiBBIGNsZWFuLCBtb2JpbGUtZmlyc3Qgd2ViIGFwcCBhY2Nlc3NpYmxlIGRpcmVjdGx5IG9uIGEgcGhvbmUgb3IgbGFwdG9wIGluIHRoZSBzaGVkcy4KLSAqKkNvbW1lcmNpYWwgVHJheSBDYWxjdWxhdGlvbnMqKjogUmVhbC10aW1lIGNvbnZlcnNpb24gb2YgbG9vc2UgZWdnIGNvdW50cyBpbnRvIGZ1bGwgMzAtZWdnIGNyYXRlcy90cmF5cyArIHJlbWFpbmluZyBsb29zZSBlZ2dzLgotICoqU2F0dXJkYXkgV2hhdHNBcHAgUmVjb25jaWxlcioqOiBHZW5lcmF0ZXMgYSBwcmUtZm9ybWF0dGVkLCBwcm9mZXNzaW9uYWwgd2Vla2x5IHJlcG9ydCB0aGF0IGNhbiBiZSBjb3BpZWQgb3Igb3BlbmVkIGRpcmVjdGx5IGluIFdoYXRzQXBwIHdpdGggYSBzaW5nbGUgY2xpY2suCi0gKipNYXN0ZXJjbGFzcyBSRVNUIEFQSSoqOiAxMDAlIGNvbXBsaWFudCB3aXRoIHRoZSBjbGFzc3Jvb20gZXhlcmNpc2UgZW5kcG9pbnRzIChgUE9TVCAvYXBpL2VnZ3NgLCBgR0VUIC9hcGkvZWdnc2ApIHdpdGggcnVubmluZyB0b3RhbHMgYW5kIGRhdGUgZmlsdGVyaW5nLgoKLS0tCgojIyDwn5qAIEdldHRpbmcgU3RhcnRlZAoKIyMjIDEuIENyZWF0ZSBhIFZpcnR1YWwgRW52aXJvbm1lbnQgYW5kIEluc3RhbGwgRGVwZW5kZW5jaWVzCgpGcm9tIHRoaXMgZm9sZGVyLCBjcmVhdGUgYW5kIGFjdGl2YXRlIGEgdmlydHVhbCBlbnZpcm9ubWVudCwgdGhlbiBpbnN0YWxsIHRoZQpwcm9qZWN0IGRlcGVuZGVuY2llczoKCmBgYHBvd2Vyc2hlbGwKcHl0aG9uIC1tIHZlbnYgLnZlbnYKLlwudmVudlxTY3JpcHRzXEFjdGl2YXRlLnBzMQpweXRob24gLW0gcGlwIGluc3RhbGwgLXIgcmVxdWlyZW1lbnRzLnR4dApgYGAKCiMjIyAyLiBTdGFydCB0aGUgQXBwbGljYXRpb24KCmBgYHBvd2Vyc2hlbGwKcHl0aG9uIC1tIHV2aWNvcm4gbWFpbjphcHAgLS1yZWxvYWQKYGBgCgotICoqSW50ZXJhY3RpdmUgRmFybWVyIERhc2hib2FyZCoqOiBbaHR0cDovLzEyNy4wLjAuMTo4MDBdKGh0dHA6Ly8xMjcuMC4wLjE6ODAwMCkKLSAqKkludGVyYWN0aXZlIE9wZW5BUEkgRG9jdW1lbnRhdGlvbioqOiBbaHR0cDovLzEyNy4wLjAuMTo4MDAvZG9jc10oaHR0cDovLzEyNy4wLjAuMTo4MDAvZG9jcykKCi0tLQoKIyMg8J+TsSBGZWF0dXJlcwoKMS4gKipEYWlseSBRdWljayBMb2cqKjoKICAgLSBRdWljayBzaGVkIHNlbGVjdG9yIGJ1dHRvbnMgKGBTaGVkIDFgLCBgU2hlZCAyYCwgYFNoZWQgM2ApLgogICAtIFF1aWNrIHRyYXkgbW9kaWZpZXJzIChgKzMwICgxIFRyYXkpYCwgYCsxMGAsIGAtMTBgKS4KICAgLSBJbnB1dCB2YWxpZGF0aW9uIChyZWplY3RzIG5lZ2F0aXZlIGNvdW50cywgYmxhbmsgc2hlZCBuYW1lcywgaW52YWxpZCBkYXRlcykuCgoyLiAqKlNhdHVyZGF5IFdoYXRzQXBwIFJlY29uY2lsZXIqKjoKICAgLSBBZ2dyZWdhdGVzIHRoZSBsYXN0IDcgZGF5cyBvZiBwcm9kdWN0aW9uLgogICAtIENhbGN1bGF0ZXMgdG90YWwgZnVsbCB0cmF5cyAoMzBzKSBhbmQgbG9vc2UgZWdncyBwZXIgc2hlZC4KICAgLSBQcmVwYXJlcyBmb3JtYXR0ZWQgV2hhdHNBcHAgdGV4dDoKICAgICBgYGB0ZXh0CiAgICAg8J+QlCAqS0lBTUJVIFBPVUxUUlkgRkFSTSAtIFdFRUtMWSBSRUNPTkNJTElBVElPTioKICAgICDwn5OFICpXZWVrOiogTW9uIDAzIE5vdiDigJMgU3VuIDA5IE5vdiAyMDI2CiAgICAg4pSB4pSB4pSB4pSB4pSB4pSB4pSB4pSB4pSB4pSB4pSB4pSB4pSB4pSB4pSB4pSB4pSB4pSB4pSB4pSB4pSBCiAgICAg8J+PoCAqU2hlZCAxOiogMiw4NzYgZWdncyAoOTUgdHJheXMgKyAyNiBsb29zZSkKICAgICDwn4+gICpTaGVkIDI6KiAyLDczOSBlZ2dzICg5MSB0cmF5cyArIDkgbG9vc2UpCiAgICAg8J+PoCAqU2hlZCAzOiogMiwxMTIgZWdncyAoNzAgdHJheXMgKyAxMiBsb29zZSkKICAgICDilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIEKICAgICDwn6WaICpHcmFuZCBUb3RhbDoqIDcsNzI3IGVnZ3MKICAgICDwn5OmICpDb21tZXJjaWFsIFRyYXlzOiogMjU3IGZ1bGwgdHJheXMgKDE3IGxvb3NlKQogICAgIOKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgQogICAgIExvZ2dlZCB2aWEgS2lhbWJ1IEZhcm0gQVBJIPCfmoAKICAgICBgYGAKCjMuICoqUGVyc2lzdGVudCBTUUxpdGUgRGF0YWJhc2UqKjoKICAgLSBEYXRhIGlzIHN0b3JlZCBpbiBgZWdncy5kYmAgaW4gdGhpcyBmb2xkZXIuCiAgIC0gU3Vydml2ZXMgc2VydmVyIHJlc3RhcnRzLgoKLS0tCgojIyDwn5SMIEFQSSBFbmRwb2ludHMKCnwgTWV0aG9kIHwgRW5kcG9pbnQgfCBEZXNjcmlwdGlvbiB8CnwtLS18LS0tfC0tLXwKfCBgR0VUYCB8IGAvYCB8IFJlc3BvbnNpdmUgRmFybWVyIFdlYiBEYXNoYm9hcmQgfAp8IGBQT1NUYCB8IGAvYXBpL2VnZ3NgIHwgTG9nIGEgZGFpbHkgcmVjb3JkIChgc2hlZGAsIGBkYXRlYCwgYGNvdW50YCkgfAp8IGBHRVRgIHwgYC9hcGkvZWdnc2AgfCBHZXQgYWxsIHJlY29yZHMgd2l0aCBydW5uaW5nIHRvdGFsIGFuZCB0b3RhbHMgYnkgc2hlZCAoc3VwcG9ydHMgYHN0YXJ0YCBhbmQgYGVuZGAgcXVlcnkgcGFyYW1zKSB8CnwgYEdFVGAgfCBgL2FwaS9lZ2dzL3dlZWtseS1zdW1tYXJ5YCB8IDctZGF5IGFnZ3JlZ2F0aW9uIHdpdGggMzAtZWdnIHRyYXkgbWF0aCAmIFdoYXRzQXBwIG1lc3NhZ2UgfAp8IGBERUxFVEVgIHwgYC9hcGkvZWdnc3svaWR9YCB8IERlbGV0ZSBhIHJlY29yZCBieSBJRCB8CnwgYFBPU1RgIHwgYC9hcGkvZWdncy9zZWVkLXNhbXBsZWAgfCBQcmUtbG9hZCAxLXdlZWsgS2lhbWJ1IGZhcm0gc2FtcGxlIGRhdGEgYWNyb3NzIDMgc2hlZHMgfAp8IGBERUxFVEVgIHwgYC9hcGkvZWdnc2AgfCBSZXNldCBhbGwgcmVjb3JkcyB8CgojIyMgRXhhbXBsZSBjVVJMIFJlcXVlc3RzCgoqKkxvZyBkYWlseSBwcm9kdWN0aW9uIChQT1NUKToqKgpgYGBwb3dlcnNoZWxsCmN1cmwuZXhlIC1YIFBPU1QgaHR0cDovLzEyNy4wLjAuMTo4MDAwL2FwaS9lZ2dzIGAKICAtSCAiQ29udGVudC1UeXBlOiBhcHBsaWNhdGlvbi9qc29uIiBgCiAgLWQgJ3sic2hlZCI6IlNoZWQgMSIsImRhdGUiOiIyMDI2LTExLTA5IiwiY291bnQiOjQxMn0nCmBgYAoKKipHZXQgYWxsIGxvZ3Mgd2l0aCBydW5uaW5nIHRvdGFsIChHRVQpOioqCmBgYHBvd2Vyc2hlbGwKY3VybC5leGUgaHR0cDovLzEyNy4wLjAuMTo4MDAwL2FwaS9lZ2dzCmBgYAoKKipGaWx0ZXIgbG9ncyBieSBkYXRlIHJhbmdlOioqCmBgYHBvd2Vyc2hlbGwKY3VybC5leGUgImh0dHA6Ly8xMjcuMC4wLjE6ODAwMC9hcGkvZWdncztzdGFydD0yMDI2LTExLTAzJmVuZD0yMDI2LTExLTA1IgpgYGAKCioqR2V0IFNhdHVyZGF5IHdlZWtseSByZWNvbmNpbGlhdGlvbjoqKgpgYGBwb3dlcnNoZWxsCmN1cmwuZXhlIGh0dHA6Ly8xMjcuMC4wLjE6ODAwMC9hcGkvZWdncysvd2Vla2x5LXN1bW1hcnkKYGBgCgotLS0KCiMjDwnvp6ogUnVubmluZyB0aGUgVW5pdCBUZXN0cwoKUnVuIHRoZSB0ZXN0IHN1aXRlIHdpdGg6CgpgYGBwb3dlcnNoZWxsCi5cLnZlbnRcU2NyaXB0c1xBY3RpdmF0ZS5wczEKcHl0aG9uIC1tIHVuaXR0ZXN0IC12IHRlc3RfYXBpCmBgYAoKQWxsIHRlc3RzIHJ1biBpbiBpc29sYXRlZCBhc3luYyBtb2RlLCB0ZXN0aW5nIGJvdGggdGhlIGNvcmUgY2xhc3Nyb29tIHJlcXVpcmVtZW50cyBhbmQgdGhlIGV4dGVuZGVkIHJlYWwtd29ybGQgZmVhdHVyZXMuCg==
+# Kiambu Poultry Farm - Egg Production Manager & API
+
+A real-world production logging system built with FastAPI to solve daily egg record-keeping and weekly reconciliation for a poultry farmer with three sheds in Kiambu, Kenya.
+
+---
+
+## 🌾 The Real Problem Being Solved
+
+In Kiambu, layer poultry farmers routinely collect eggs from multiple sheds every evening. Historically, the farmer typed raw daily numbers into a personal WhatsApp chat:
+
+```text
+Monday: Shed 1 - 412, Shed 2 - 388, Shed 3 - 295
+Tuesday: Shed 1 - 405, Shed 2 - 391, Shed 3 - 302
+...
+```
+
+On Saturday afternoon, the farmer had to:
+1. Manually scroll through the chat messages.
+2. Pull out a calculator to sum each shed's yields.
+3. Convert loose egg counts into **commercial trays** (in Kenya, eggs are packed and sold in 30-egg trays: `trays = count // 30`).
+4. Spot errors or typos with no way to edit past logs.
+
+This application solves that exact problem:
+- **Zero Data Loss**: Persistent SQLite database (`eggs.db`) ensures records survive server restarts.
+- **Farmer Dashboard (`/`)**: A clean, mobile-first web app accessible directly on a phone or laptop in the sheds.
+- **Commercial Tray Calculations**: Real-time conversion of loose egg counts into full 30-egg crates/trays + remaining loose eggs.
+- **Saturday WhatsApp Reconciler**: Generates a pre-formatted, professional weekly report that can be copied or opened directly in WhatsApp with a single click.
+- **Masterclass REST API**: 100% compliant with the classroom exercise endpoints (`POST /api/eggs`, `GET /api/eggs`) with running totals and date filtering.
+
+---
+
+## 🚀 Getting Started
+
+### 1. Create a Virtual Environment and Install Dependencies
+
+From this folder, create and activate a virtual environment, then install the
+project dependencies:
+
+```powershell
+python -m venv .venv
+.\.venv\Scripts\Activate.ps1
+python -m pip install -r requirements.txt
+```
+
+### 2. Start the Application
+
+```powershell
+python -m uvicorn main:app --reload
+```
+
+- **Interactive Farmer Dashboard**: [http://127.0.0.1:8000](http://127.0.0.1:8000)
+- **Interactive OpenAPI Documentation**: [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
+
+---
+
+## 📱 Features
+
+1. **Daily Quick Log**:
+   - Quick shed selector buttons (`Shed 1`, `Shed 2`, `Shed 3`).
+   - Quick tray modifiers (`+30 (1 Tray)`, `+10`, `-10`).
+   - Input validation (rejects negative counts, blank shed names, invalid dates).
+
+2. **Saturday WhatsApp Reconciler**:
+   - Aggregates the last 7 days of production.
+   - Calculates total full trays (30s) and loose eggs per shed.
+   - Prepares formatted WhatsApp text:
+     ```text
+     🐔 *KIAMBU POULTRY FARM - WEEKLY RECONCILIATION*
+     📅 *Week:* Mon 03 Nov – Sun 09 Nov 2026
+     ━━━━━━━━━━━━━━━━━━━━━━
+     🏠 *Shed 1:* 2,876 eggs (95 trays + 26 loose)
+     🏠 *Shed 2:* 2,739 eggs (91 trays + 9 loose)
+     🏠 *Shed 3:* 2,112 eggs (70 trays + 12 loose)
+     ━━━━━━━━━━━━━━━━━━━━━━
+     🥚 *Grand Total:* 7,727 eggs
+     📦 *Commercial Trays:* 257 full trays (17 loose)
+     ━━━━━━━━━━━━━━━━━━━━━━
+     Logged via Kiambu Farm API 🚀
+     ```
+
+3. **Persistent SQLite Database**:
+   - Data is stored in `eggs.db` in this folder.
+   - Survives server restarts.
+
+---
+
+## 🔌 API Endpoints
+
+| Method | Endpoint | Description |
+|---|---|---|
+| `GET` | `/` | Responsive Farmer Web Dashboard |
+| `POST` | `/api/eggs` | Log a daily record (`shed`, `date`, `count`) |
+| `GET` | `/api/eggs` | Get all records with running total and totals by shed (supports `start` and `end` query params) |
+| `GET` | `/api/eggs/weekly-summary` | 7-day aggregation with 30-egg tray math & WhatsApp message |
+| `DELETE` | `/api/eggs/{id}` | Delete a record by ID |
+| `POST` | `/api/eggs/seed-sample` | Pre-load 1-week Kiambu farm sample data across 3 sheds |
+| `DELETE` | `/api/eggs` | Reset all records |
+
+### Example cURL Requests
+
+**Log daily production (POST):**
+```powershell
+curl.exe -X POST http://127.0.0.1:8000/api/eggs `
+  -H "Content-Type: application/json" `
+  -d '{"shed":"Shed 1","date":"2026-11-09","count":412}'
+```
+
+**Get all logs with running total (GET):**
+```powershell
+curl.exe http://127.0.0.1:8000/api/eggs
+```
+
+**Filter logs by date range:**
+```powershell
+curl.exe "http://127.0.0.1:8000/api/eggs?start=2026-11-03&end=2026-11-05"
+```
+
+**Get Saturday weekly reconciliation:**
+```powershell
+curl.exe http://127.0.0.1:8000/api/eggs/weekly-summary
+```
+
+---
+
+## 🧪 Running the Unit Tests
+
+Run the test suite with:
+
+```powershell
+.\.venv\Scripts\Activate.ps1
+python -m unittest -v test_api
+```
+
+All tests run in isolated async mode, testing both the core classroom requirements and the extended real-world features.

@@ -1,5 +1,7 @@
 # Kiambu Poultry Farm
 
+**Live Demo:** [https://egg-production-tracker-v8w1.onrender.com/](https://egg-production-tracker-v8w1.onrender.com/)
+
 A FastAPI application for recording egg production by shed, tracking totals,
 calculating 30-egg trays, and preparing weekly summaries to share on WhatsApp.
 Production records are stored in a local SQLite database.
